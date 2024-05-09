@@ -38,8 +38,8 @@ const projectsData = [
     description: "Project 4 description",
     image: "/images/projects/4.jpg",
     tag: ["All", "Web"],
-    gitUrl: "https://apple-3d-website.vercel.app/",
-    previewUrl: "https://github.com/Wamukelwe/apple-3d-website",
+    gitUrl: "https://github.com/Wamukelwe/apple-3d-website",
+    previewUrl: "https://apple-3d-website.vercel.app/",
   },
   {
     id: 5,
