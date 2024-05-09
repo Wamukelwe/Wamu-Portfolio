@@ -37,8 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+            Welcome to Wamukelwe Cebekhulu's portfolio. Dive into my world of code and creativity, showcasing my passion for software development.
           </p>
           <div>
             <Link
